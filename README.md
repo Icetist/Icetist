@@ -47,7 +47,7 @@ My GitHub Stats :
       </a>
     </td>
     <td valign="center">
-      <a href="http://www.github.com/icetist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icetist&stroke=dadada&background=151515&ring=5ab26d&fire=5ab26dcurrStreakNum=dadada&currStreakLabel=5BCDEC&sideNums=dadada&sideLabels=dadada&dates=dadada&hide_border=true" /></a>
+      <a href="http://www.github.com/icetist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icetist&stroke=dadada&background=151515&ring=5ab26d&fire=5ab26dcurrStreakNum=dadada&currStreakLabel=5ab26d&sideNums=dadada&sideLabels=dadada&dates=dadada&hide_border=true" /></a>
     </td>
     <td valign="center">
       <a href="https://github.com/Icetist/github-readme-stats">
