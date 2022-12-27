@@ -35,11 +35,11 @@ Skills
 ----------------------
 <a href="https://www.javascript.com"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="30" height="30"/></a>
 <a href="https://html.com"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="30" height="30"/></a>
-<a href="https://nextjs.org"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="30" height="30"/></a>
+<a href="https://nextjs.org"><img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJs" width="30" height="30"/></a>
 <a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" width="30" height="30"/></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="30" height="30"/></a>
-<a href="https://vercel.com/dashboard"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="70" height="30"/></a>
-<a href="https://hubs.mozilla.com"><img src="https://cdn.worldvectorlogo.com/logos/mozilla.svg" alt="Mozilla Hubs" width="70" height="30"/></a>
+<a href="https://vercel.com/dashboard"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="Vercel" width="30" height="30"/></a>
+<a href="https://hubs.mozilla.com"><img src="https://www.solodev.com/file/1ed4bafb-e1f7-11ec-b9ad-0eaef3759f5f/Mozilla-Hubs-Icon.png" alt="Mozilla Hubs" width="30" height="30"/></a>
 <a href="https://www.python.org/doc/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30"/></a>
 <a href="https://metamask.io"><img src="https://cdn.worldvectorlogo.com/logos/metamask.svg" alt="MetaMask" width="30" height="30"/></a>
 <a href="https://eslint.org"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="ESlint" width="30" height="30"/></a>
@@ -68,6 +68,6 @@ My GitHub Stats :
 Social Media
 ----------------------
 <a href="https://discordapp.com/users/711824195885072405"><img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord" width="30" height="30"/></a>
-<a href="https://github.com/Icetist"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="30" height="30"/></a>
+<a href="https://github.com/Icetist"><img src="https://www.pngitem.com/pimgs/b/128-1280311_github-logo-png.png" alt="GitHub" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/saahil-talha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
 <a href="https://www.reddit.com/user/IcetistOfficialz"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="30" height="30"/></a>
