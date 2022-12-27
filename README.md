@@ -28,8 +28,8 @@ Python Programmer
 
 Skills
 ----------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icetist&show_icons=true&theme=github_dark)](https://github.com/Icetist/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icetist&show_icons=true&theme=dark)](https://github.com/Icetist/github-readme-stats)
 
 My GitHub Stats : 
 ----------------------
-[![Icetist's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Icetist&show_icons=true&theme=github_dark)](https://github.com/Icetist/github-readme-stats#gh-dark-mode-only)
+[![Icetist's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Icetist&show_icons=true&theme=dark)](https://github.com/Icetist/github-readme-stats#gh-dark-mode-only)
