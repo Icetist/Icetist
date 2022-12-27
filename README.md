@@ -33,11 +33,14 @@ Python Programmer
 
 Skills
 ----------------------
+<a href="https://www.javascript.com"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="30" height="30"/></a>
+<a href="https://html.com"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="30" height="30"/></a>
 <a href="https://nextjs.org"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="30" height="30"/></a>
 <a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" width="30" height="30"/></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="30" height="30"/></a>
 <a href="https://vercel.com/dashboard"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="70" height="30"/></a>
 <a href="https://hubs.mozilla.com"><img src="https://cdn.worldvectorlogo.com/logos/mozilla.svg" alt="Mozilla Hubs" width="70" height="30"/></a>
+<a href="https://www.python.org/doc/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30"/></a>
 
 My GitHub Stats : 
 ----------------------
