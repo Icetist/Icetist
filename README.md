@@ -31,30 +31,35 @@ Python Programmer
 
 Skills
 ----------------------
+<a href="https://nextjs.org"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="30" height="30"/></a>
+<a href="https://nodejs.org/en/"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" width="30" height="30"/></a>
+<a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="30" height="30"/></a>
+<a href="https://vercel.com/dashboard"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="70" height="30"/></a>
+<a href="https://hubs.mozilla.com"><img src="https://cdn.worldvectorlogo.com/logos/mozilla.svg" alt="Mozilla Hubs" width="70" height="30"/></a>
+
+My GitHub Stats : 
+----------------------
 <table>
   <tr>
+    <td valign="center">
+      <a href="https://github.com/Icetist/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Icetist&show_icons=true&theme=dark" />
+      </a>
+    </td>
+    <td valign="center">
+      <a href="http://www.github.com/icetist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icetist&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
     <td valign="center">
       <a href="https://github.com/Icetist/github-readme-stats">
         <img alt="Icetist's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icetist&show_icons=true&theme=dark" />
       </a>
     </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30"/> 
-      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="30" height="30"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="30" height="30"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="30" height="30"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" width="30" height="30"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord_Server_Management" width="30" height="30"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="30" height="30"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="70" height="30"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/mozilla.svg" alt="Vercel" width="70" height="30"/>
-    </td>
   </tr>
 </table>
 
-
-My GitHub Stats : 
+Social Media
 ----------------------
-<a href="https://github.com/Icetist/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Icetist&show_icons=true&theme=dark" />
-</a>
+<a href="discordapp.com/users/711824195885072405"><img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord_Server_Management" width="30" height="30"/></a>
+<a href="https://github.com/Icetist"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1" alt="GitHub" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/saahil-talha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://www.reddit.com/user/IcetistOfficialz"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4" alt="Reddit" width="30" height="30"/></a>
