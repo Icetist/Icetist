@@ -39,7 +39,15 @@ Skills
       </a>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Python-#3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30"/> 
+      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="30" height="30"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="30" height="30"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" width="30" height="30"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJs" width="30" height="30"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord_Server_Management" width="30" height="30"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="30" height="30"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" width="70" height="30"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/mozilla.svg" alt="Vercel" width="70" height="30"/>
     </td>
   </tr>
 </table>
