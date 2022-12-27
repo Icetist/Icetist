@@ -26,6 +26,11 @@ Python Programmer
   </tr>
 </table>
 
+Skills
+----------------------
+<a href="https://github.com/Icetist/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icetist" />
+ </a>
 
 [![Icetist's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Icetist&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Icetist/github-readme-stats#gh-dark-mode-only)
 
