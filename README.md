@@ -61,7 +61,7 @@ My GitHub Stats :
 
 Social Media
 ----------------------
-<a href="discordapp.com/users/711824195885072405"><img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord" width="30" height="30"/></a>
+<a href="https://discordapp.com/users/711824195885072405"><img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord" width="30" height="30"/></a>
 <a href="https://github.com/Icetist"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/saahil-talha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
 <a href="https://www.reddit.com/user/IcetistOfficialz"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="30" height="30"/></a>
