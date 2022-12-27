@@ -1,7 +1,4 @@
 ![Icetist](https://user-images.githubusercontent.com/96980054/209646931-503e64aa-e79a-43c4-b6ae-7b65f353798b.png)
-<a align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/icetist?color=%230384fc&label=Followers&style=for-the-badge">
-</a>
 ==============================
 
 Python Programmer
@@ -21,6 +18,11 @@ Python Programmer
         📂 &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         ⚡ &nbsp;Time to move at the speed of light
+        <br/>
+        <br/>
+        <a align="center">
+          <img alt="GitHub followers" src="https://img.shields.io/github/followers/icetist?color=%230384fc&label=Followers&style=for-the-badge">
+        </a>
       </p>
     </td>
     <td>
