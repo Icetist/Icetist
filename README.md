@@ -7,4 +7,4 @@
 - 📂 Follow me on github to stay tuned on my amazing projects.
 - ⚡ Time to move at the speed of light
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Icetist/icetist/blob/master/devcard.svg" width="400" alt="Icetist's Dev Card"/></a>
