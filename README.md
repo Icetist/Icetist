@@ -31,9 +31,19 @@ Python Programmer
 
 Skills
 ----------------------
-<a href="https://github.com/Icetist/github-readme-stats">
-  <img alt="Icetist's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icetist&show_icons=true&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td valign="center">
+      <a href="https://github.com/Icetist/github-readme-stats">
+        <img alt="Icetist's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icetist&show_icons=true&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-#3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
 
 My GitHub Stats : 
 ----------------------
