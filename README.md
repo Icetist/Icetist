@@ -2,7 +2,7 @@
 # Python Programmer
 👋🏼 Hey, it's me Icetist!
 🌏 I'm from :bangladesh:
-📧 Reach me out through [my mail](mailto:saahil.alam@gmail.com?subject=Let's%20Collab!)
+📧 Reach me out through [my mail](mailto:saahil.alam@gmail.com)
 💻 Learning Javascript, HTML, CSS and many others. Always open to learn something new!
 📂 Follow me on github to stay tuned on my amazing projects.
 ⚡ Time to move at the speed of light
