@@ -42,6 +42,8 @@ Skills
 <a href="https://hubs.mozilla.com"><img src="https://cdn.worldvectorlogo.com/logos/mozilla.svg" alt="Mozilla Hubs" width="70" height="30"/></a>
 <a href="https://www.python.org/doc/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30"/></a>
 <a href="https://metamask.io"><img src="https://cdn.worldvectorlogo.com/logos/metamask.svg" alt="MetaMask" width="30" height="30"/></a>
+<a href="https://eslint.org"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="ESlint" width="30" height="30"/></a>
+<a href="https://talhatraining.com/course/best-coding-for-kids-games-made-with-python-for-beginners-to-mid-level/"><img src="https://i.ibb.co/nBTQkgY/talhatraining-300.png" alt="TalhaTraining" width="30" height="30"/></a>
 
 My GitHub Stats : 
 ----------------------
