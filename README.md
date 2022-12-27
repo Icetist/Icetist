@@ -47,7 +47,7 @@ My GitHub Stats :
       </a>
     </td>
     <td valign="center">
-      <a href="http://www.github.com/icetist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icetist&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      <a href="http://www.github.com/icetist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icetist&stroke=dadada&background=151515&ring=5ab26d&fire=5ab26dcurrStreakNum=dadada&currStreakLabel=5BCDEC&sideNums=dadada&sideLabels=dadada&dates=dadada&hide_border=true" /></a>
     </td>
     <td valign="center">
       <a href="https://github.com/Icetist/github-readme-stats">
@@ -60,6 +60,6 @@ My GitHub Stats :
 Social Media
 ----------------------
 <a href="discordapp.com/users/711824195885072405"><img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord_Server_Management" width="30" height="30"/></a>
-<a href="https://github.com/Icetist"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1" alt="GitHub" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/saahil-talha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon" alt="LinkedIn" width="30" height="30"/></a>
-<a href="https://www.reddit.com/user/IcetistOfficialz"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4" alt="Reddit" width="30" height="30"/></a>
+<a href="https://github.com/Icetist"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/saahil-talha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://www.reddit.com/user/IcetistOfficialz"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="30" height="30"/></a>
