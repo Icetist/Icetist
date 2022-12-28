@@ -42,7 +42,7 @@ Skills
 <a href="https://eslint.org"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="ESlint" width="30" height="30"/></a>
 <a href="https://vercel.com/dashboard"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="Vercel" width="30" height="30"/></a>
 <a href="https://metamask.io"><img src="https://cdn.worldvectorlogo.com/logos/metamask.svg" alt="MetaMask" width="30" height="30"/></a>
-<a href="https://hubs.mozilla.com"><img src="https://www.solodev.com/file/1ed4bafb-e1f7-11ec-b9ad-0eaef3759f5f/Mozilla-Hubs-Icon.png" alt="Mozilla Hubs" width="30" height="30"/></a>
+<a href="https://hubs.mozilla.com"><img src="https://pbs.twimg.com/profile_images/1597315527365754882/6uM4nC88_400x400.png" alt="Mozilla Hubs" width="30" height="30"/></a>
 <a href="https://talhatraining.com/course/best-coding-for-kids-games-made-with-python-for-beginners-to-mid-level/"><img src="https://i.ibb.co/nBTQkgY/talhatraining-300.png" alt="TalhaTraining" width="30" height="30"/></a>
 
 My GitHub Stats : 
