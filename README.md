@@ -35,6 +35,7 @@ Skills
 ----------------------
 <a href="https://www.python.org/doc/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30"/></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="30" height="30"/></a>
+<a href="https://reactjs.org"><img src="https://softprodigy.com/wp-content/uploads/2019/06/react-js.png" alt="ReactJs" width="30" height="30"/></a>
 <a href="https://html.com"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="30" height="30"/></a>
 <a href="https://www.javascript.com"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="30" height="30"/></a>
 <a href="https://nextjs.org"><img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJs" width="30" height="30"/></a>
