@@ -1,4 +1,5 @@
 ![Icetist](https://user-images.githubusercontent.com/96980054/209693457-3e0f0f5a-822b-442a-bad9-5fbf65669d9b.gif)
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=20232A)](https://www.buymeacoffee.com/icetist)
 ==============================
 
 Python Programmer
@@ -33,35 +34,33 @@ Python Programmer
 
 Skills and Tools
 ----------------------
-<a href="https://git-scm.com"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" height="30"/></a>
-<a href="https://talhatraining.com/course/best-coding-for-kids-games-made-with-python-for-beginners-to-mid-level/"><img src="https://i.ibb.co/nBTQkgY/talhatraining-300.png" alt="TalhaTraining" width="30" height="30"/></a>
-<a href="https://www.python.org/doc/"><img src="https://www.kindpng.com/picc/b/159-1595848_python-logo-png.png" alt="Python" width="30" height="30"/></a>
-<a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://cdn-icons-png.flaticon.com/512/552/552224.png" alt="Adobe XD" width="30" height="30"/></a>
-<a href="https://reactjs.org"><img src="https://softprodigy.com/wp-content/uploads/2019/06/react-js.png" alt="ReactJs" width="30" height="30"/></a>
-<a href="https://html.com"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML5" width="30" height="30"/></a>
-<a href="https://www.javascript.com"><img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" alt="JavaScript" width="30" height="30"/></a>
-<a href="https://nextjs.org"><img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="NextJs" width="30" height="30"/></a>
-<a href="https://www.pngitem.com/pimgs/b/168-1680234_netflix-icon-png.png" alt="NodeJs" width="30" height="30"/></a>
-<a href="https://eslint.org"><img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="ESlint" width="30" height="30"/></a>
-<a href="https://vercel.com/dashboard"><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="Vercel" width="30" height="30"/></a>
-<a href="https://metamask.io"><img src="https://cdn.worldvectorlogo.com/logos/metamask.svg" alt="MetaMask" width="30" height="30"/></a>
-<a href="https://hubs.mozilla.com"><img src="https://pbs.twimg.com/profile_images/1597315527365754882/6uM4nC88_400x400.png" alt="Mozilla Hubs" width="30" height="30"/></a>
-<a href="https://www.npmjs.com"><img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="NPM" width="30" height="30"/></a>
-<a href="https://yarnpkg.com"><img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="Yarn" width="30" height="30"/></a>
-<a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="30" height="30"/></a>
-<a href="https://www.eclipse.org"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="30" height="30"/></a>
-<a href="https://netbeans.apache.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="30" height="30"/></a>
-<a href="https://www.virtualbox.org"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" alt="VirtualBox" width="30" height="30"/></a>
+![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/ADOBE_XD-20232A?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232A)
+![](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=black)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 Workspace
 ----------------------
-<a href="https://www.intel.com/content/www/us/en/products/sku/88184/intel-core-i56500-processor-6m-cache-up-to-3-60-ghz/specifications.html"><img src="https://en.wikichip.org/w/images/6/63/core_i5_logo_%282015%29.png" alt="Intel i5 Gen6" width="30" height="30"/></a>
-<a href="https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png" alt="Windows 11" width="30" height="30"/></a>
-<a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Windows Powershell1" width="30" height="30"/></a>
-<a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" alt="Windows Terminal" width="30" height="30"/></a>
-<a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://cdn-icons-png.flaticon.com/512/183/183320.png" alt="Mozilla Firefox" width="30" height="30"/></a>
-<a href="https://www.opera.com/gx"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/deinm58-8ee520d8-9ff6-44d4-8785-1a3eac3b6606.png/v1/fill/w_512,h_512,strp/honeycomb_icon_opera_gx_by_mauriliosm_deinm58-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZWlubTU4LThlZTUyMGQ4LTlmZjYtNDRkNC04Nzg1LTFhM2VhYzNiNjYwNi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.P5vH7O1D67e7xd_U2WAHHjr3Mcyqi9nTn7FztLOd598" alt="Opera GX" width="30" height="30"/></a>
-<a href="https://open.spotify.com/user/ho4sjsikiamsog0vqlr9a751r"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" alt="Spotify" width="30" height="30"/></a>
+![](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/Processor_i5-6500-white?style=for-the-badge)
+![](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
+![](https://img.shields.io/badge/Opera_GX-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
+![](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
 My GitHub Stats : 
 ----------------------
@@ -83,9 +82,9 @@ My GitHub Stats :
   </tr>
 </table>
 
-Social Media
+Contact Me
 ----------------------
-<a href="https://github.com/Icetist"><img src="https://www.pngitem.com/pimgs/b/128-1280311_github-logo-png.png" alt="GitHub" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/saahil-talha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
-<a href="https://discordapp.com/users/711824195885072405"><img src="https://cdn.worldvectorlogo.com/logos/discord-4.svg" alt="Discord" width="30" height="30"/></a>
-<a href="https://www.reddit.com/user/IcetistOfficialz"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="30" height="30"/></a>
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icetist/)
+[![](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saahil-talha/)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/711824195885072405)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/IcetistOfficialz)
