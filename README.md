@@ -27,7 +27,7 @@ Python Programmer
       </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/Icetist"><img src="https://github.com/Icetist/icetist/blob/main/devcard.svg" width="400" alt="Icetist's Dev Card"/></a>
+      <a href="https://app.daily.dev/icetist"><img src="https://api.daily.dev/devcards/v2/wIAbzufZibh78rZoEXHAS.png?r=dtn&type=default" width="356" alt="Icetist's Dev Card"/></a>
     </td>
   </tr>
 </table>
