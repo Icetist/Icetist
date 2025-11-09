@@ -8,17 +8,17 @@ Python Programmer
   <tr>
     <td valign="center">
       <p>
-        👋 &nbsp;Hey, it's me Icetist!
+        👋 &nbsp;Hello I'm Saahil Talha
         <br/>
         🌏 &nbsp;I'm from :bangladesh:
         <br/>
         📧 &nbsp;Reach me out through <a href="mailto:saahil.alam@gmail.com?subject=Lets Collab!">my Email</a>
         <br/>
-        🧠 &nbsp;Always open to learn something new!
+        🧠 &nbsp;Always open to learn something new
         <br/>
-        📂 &nbsp;Follow me on github to stay tuned on my amazing projects.
+        📂 &nbsp;Follow me on github to stay tuned on my projects.
         <br/>
-        ⚡ &nbsp;Time to move at the speed of light
+        💼 &nbsp;Open to work!
         <br/>
         <br/>
         <a align="center">
