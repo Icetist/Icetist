@@ -1,79 +1,58 @@
-![Icetist](https://user-images.githubusercontent.com/96980054/209693457-3e0f0f5a-822b-442a-bad9-5fbf65669d9b.gif)
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=20232A)](https://www.buymeacoffee.com/icetist)
-==============================
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/profile.svg" />
+  <img src="assets/dark/profile.svg" width="100%" alt="Saahil Talha. Software developer and designer from Dhaka, Bangladesh. Open to work." />
+</picture>
 
-Python Programmer
-----------------------
-<table>
-  <tr>
-    <td valign="center">
-      <p>
-        👋 &nbsp;Hello I'm Saahil Talha
-        <br/>
-        🌏 &nbsp;I'm from :bangladesh:
-        <br/>
-        📧 &nbsp;Reach me out through <a href="mailto:saahil.alam@gmail.com?subject=Lets Collab!">my Email</a>
-        <br/>
-        🧠 &nbsp;Always open to learn something new
-        <br/>
-        📂 &nbsp;Follow me on github to stay tuned on my projects.
-        <br/>
-        💼 &nbsp;Open to work!
-        <br/>
-        <br/>
-        <a align="center">
-          <img alt="GitHub followers" src="https://img.shields.io/github/followers/icetist?color=%230384fc&label=Followers&style=for-the-badge">
-        </a>
-      </p>
-    </td>
-    <td>
-      <a href="https://app.daily.dev/icetist"><img src="https://api.daily.dev/devcards/v2/wIAbzufZibh78rZoEXHAS.png?r=dtn&type=default" width="356" alt="Icetist's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+I build native Windows software and design the interfaces that sit on top of it. I like apps
+that feel light, fast and quietly considered, so I write them in **C++** and **Rust**, draw them
+with **Direct2D**, and design them first in **Figma**, **Affinity** and **Illustrator**.
 
-Skills and Tools
-----------------------
-[![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com)
-[![](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
-[![](https://img.shields.io/badge/ADOBE_XD-20232A?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6)](https://www.adobe.com/products/xd/pricing/free-trial.html)
-[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
-[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232A)](https://www.javascript.com)
-[![](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=black)](https://nextjs.org)
-[![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
-[![](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/dashboard)
-[![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com)
-[![](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org)
-[![](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org)
-[![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com)
+### Hobby projects
 
-My GitHub Stats : 
-----------------------
-<table>
-  <tr>
-    <td valign="center">
-      <a href="https://github.com/Icetist/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Icetist&show_icons=true&theme=dark" />
-      </a>
-    </td>
-    <td valign="center">
-      <a href="http://www.github.com/icetist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icetist&stroke=dadada&background=151515&ring=5ab26d&fire=5ab26dcurrStreakNum=dadada&currStreakLabel=5ab26d&sideNums=dadada&sideLabels=dadada&dates=dadada&hide_border=true" /></a>
-    </td>
-    <td valign="center">
-      <a href="https://github.com/Icetist/github-readme-stats">
-        <img alt="Icetist's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icetist&show_icons=true&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Icetist/Astraeus">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/light/astraeus.svg" />
+    <img src="assets/dark/astraeus.svg" width="100%" alt="Astraeus: a native bezel dashboard that drips open from the top of your screen" />
+  </picture>
+</a>
 
-Contact Me
-----------------------
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Icetist/)
-[![](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saahil-talha/)
-[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/711824195885072405)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/IcetistOfficialz)
+<a href="https://github.com/Icetist/HaloBar"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/halobar.svg" /><img src="assets/dark/halobar.svg" width="49.5%" alt="HaloBar: a floating dock for Windows 11 with widgets" /></picture></a>
+<a href="https://github.com/Icetist/Xiro"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/xiro.svg" /><img src="assets/dark/xiro.svg" width="49.5%" alt="Xiro: your iPad or iPhone as a real second screen for Windows" /></picture></a>
+
+### More projects
+
+My other work is pinned at the bottom of this page.
+
+<!-- To list a project here, add a line like:
+- [ProjectName](https://github.com/Icetist/ProjectName): short description
+-->
+
+### Toolkit
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/toolkit.svg" />
+  <img src="assets/dark/toolkit.svg" width="100%" alt="C++, Rust, Python, JavaScript, PowerShell, HTML5, Windows, Direct2D, Visual Studio, GitHub Actions, React, Next.js, Node.js, Vercel, npm, Yarn, ESLint, Figma, Affinity, Illustrator, Git, GitHub, VS Code, Eclipse, NetBeans" />
+</picture>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icetist/Icetist/output/stats-light.svg" />
+  <img src="https://raw.githubusercontent.com/Icetist/Icetist/output/stats-dark.svg" width="100%" alt="GitHub activity: contributions, streaks and stars" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icetist/Icetist/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Icetist/Icetist/output/snake-dark.svg" width="100%" alt="Contribution graph" />
+</picture>
+
+### Get in touch
+
+<p>
+  <a href="mailto:saahil.alam@gmail.com?subject=Let's%20work%20together"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-mail.svg" /><img src="assets/dark/btn-mail.svg" height="40" alt="Email me" /></picture></a>
+  <a href="https://www.linkedin.com/in/saahiltalha/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-linkedin.svg" /><img src="assets/dark/btn-linkedin.svg" height="40" alt="LinkedIn" /></picture></a>
+  <a href="https://www.instagram.com/saahiltalha/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-instagram.svg" /><img src="assets/dark/btn-instagram.svg" height="40" alt="Instagram" /></picture></a>
+  <a href="https://discordapp.com/users/711824195885072405"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-discord.svg" /><img src="assets/dark/btn-discord.svg" height="40" alt="Discord" /></picture></a>
+  <a href="https://www.reddit.com/user/IcetistOfficialz"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-reddit.svg" /><img src="assets/dark/btn-reddit.svg" height="40" alt="Reddit" /></picture></a>
+  <a href="https://www.buymeacoffee.com/icetist"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-bmc.svg" /><img src="assets/dark/btn-bmc.svg" height="40" alt="Buy me a coffee" /></picture></a>
+</p>

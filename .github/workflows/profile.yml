@@ -1,0 +1,37 @@
+name: Profile activity
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#60CDFF&color_dots=#2B2B2B,#0E3A52,#11658C,#2E9BD1,#60CDFF
+            dist/snake-light.svg?color_snake=#005FB8&color_dots=#EBEBEB,#C7DDF2,#7FB0E0,#2F7CC9,#005FB8
+
+      - name: Build activity card
+        run: python3 .github/scripts/stats.py dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
