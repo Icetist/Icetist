@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build profile cards (live avatar + latest project)
+      - name: Build profile cards (live avatar)
         run: python3 .github/scripts/cards.py dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -22,9 +22,7 @@ When I'm not doing that, I build developer tools in **Python**.
 
 ### More projects
 
-- [HaloBar](https://github.com/Icetist/HaloBar): a floating dock for Windows 11, with widgets. C++, Direct2D and DirectComposition.
-
-The rest of my work is pinned at the bottom of this page.
+My other work is pinned at the bottom of this page.
 
 <!-- To list a project here, add a line like:
 - [ProjectName](https://github.com/Icetist/ProjectName): short description
