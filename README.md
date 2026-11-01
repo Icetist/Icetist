@@ -1,11 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/profile.svg" />
-  <img src="assets/dark/profile.svg" width="100%" alt="Saahil Talha. Software developer and designer from Dhaka, Bangladesh. Open to work." />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icetist/Icetist/output/profile-light.svg" />
+  <img src="https://raw.githubusercontent.com/Icetist/Icetist/output/profile-dark.svg" width="100%" alt="Saahil Talha. Software developer and designer from Dhaka, Bangladesh. Open to work. Building native Windows apps and developer tools." />
 </picture>
 
 I build native Windows software and design the interfaces that sit on top of it. I like apps
 that feel light, fast and quietly considered, so I write them in **C++** and **Rust**, draw them
-with **Direct2D**, and design them first in **Figma**, **Affinity** and **Illustrator**.
+with **Direct2D** and **Direct3D**, and design them first in **Figma**, **Affinity** and **Illustrator**.
+When I'm not doing that, I build developer tools in **Python**.
 
 ### Hobby projects
 
@@ -16,12 +17,14 @@ with **Direct2D**, and design them first in **Figma**, **Affinity** and **Illust
   </picture>
 </a>
 
-<a href="https://github.com/Icetist/HaloBar"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/halobar.svg" /><img src="assets/dark/halobar.svg" width="49.5%" alt="HaloBar: a floating dock for Windows 11 with widgets" /></picture></a>
+<a href="https://github.com/Icetist/sidera"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/sidera.svg" /><img src="assets/dark/sidera.svg" width="49.5%" alt="Sidera: local release rehearsal for Python projects that catches API breakages before they ship" /></picture></a>
 <a href="https://github.com/Icetist/Xiro"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/xiro.svg" /><img src="assets/dark/xiro.svg" width="49.5%" alt="Xiro: your iPad or iPhone as a real second screen for Windows" /></picture></a>
 
 ### More projects
 
-My other work is pinned at the bottom of this page.
+- [HaloBar](https://github.com/Icetist/HaloBar): a floating dock for Windows 11, with widgets. C++, Direct2D and DirectComposition.
+
+The rest of my work is pinned at the bottom of this page.
 
 <!-- To list a project here, add a line like:
 - [ProjectName](https://github.com/Icetist/ProjectName): short description
@@ -30,8 +33,8 @@ My other work is pinned at the bottom of this page.
 ### Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/toolkit.svg" />
-  <img src="assets/dark/toolkit.svg" width="100%" alt="C++, Rust, Python, JavaScript, PowerShell, HTML5, Windows, Direct2D, Visual Studio, GitHub Actions, React, Next.js, Node.js, Vercel, npm, Yarn, ESLint, Figma, Affinity, Illustrator, Git, GitHub, VS Code, Eclipse, NetBeans" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Icetist/Icetist/output/toolkit-light.svg" />
+  <img src="https://raw.githubusercontent.com/Icetist/Icetist/output/toolkit-dark.svg" width="100%" alt="C++, Rust, Python, JavaScript, PowerShell, HTML5, CSS, Windows, Direct2D, Direct3D, DirectComposition, Tokio, Visual Studio, GitHub Actions, React, Next.js, Node.js, Vercel, npm, Yarn, ESLint, Figma, Affinity, Illustrator, Git, GitHub, VS Code, pytest, Ruff, Eclipse, NetBeans" />
 </picture>
 
 ### Activity

@@ -12,9 +12,9 @@ DEMO = "--demo" in sys.argv
 LOGIN = next((a for a in sys.argv[2:] if not a.startswith("--")), os.environ.get("GITHUB_REPOSITORY_OWNER", "Icetist"))
 
 THEMES = {
-    "dark": dict(base="#202020", card="#2B2B2B", stroke="#3A3A3A", divider="#3A3A3A",
+    "dark": dict(base="#202020", mica="#1E2026", stroke="#454545", divider="#3A3A3A",
                  text="#FFFFFF", text2="#C5C5C5", text3="#9A9A9A", accent="#60CDFF"),
-    "light": dict(base="#F3F3F3", card="#FBFBFB", stroke="#E5E5E5", divider="#E5E5E5",
+    "light": dict(base="#F3F3F3", mica="#EEF1F6", stroke="#D4D4D4", divider="#E5E5E5",
                   text="#1A1A1A", text2="#5D5D5D", text3="#8A8A8A", accent="#005FB8"),
 }
 
@@ -114,9 +114,12 @@ def render(theme, tiles, updated, css):
     op = ".28" if theme == "light" else ".55"
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="GitHub activity">'
             f'<style>{css}</style><defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%">'
-            f'<feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#000" flood-opacity="{op}"/></filter></defs>'
-            f'<rect x="{M}" y="{M}" width="{cw}" height="{ch}" rx="10" fill="{c["card"]}" filter="url(#sh)"/>'
-            f'<rect x="{M+.5}" y="{M+.5}" width="{cw-1}" height="{ch-1}" rx="9.5" fill="none" stroke="{c["stroke"]}"/>'
+            f'<feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#000" flood-opacity="{op}"/></filter>'
+            f'<linearGradient id="mica" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c["mica"]}"/>'
+            f'<stop offset="1" stop-color="{c["base"]}" stop-opacity="0"/></linearGradient></defs>'
+            f'<rect x="{M}" y="{M}" width="{cw}" height="{ch}" rx="12" fill="{c["base"]}" filter="url(#sh)"/>'
+            f'<rect x="{M}" y="{M}" width="{cw}" height="{ch}" rx="12" fill="url(#mica)"/>'
+            f'<rect x="{M+.5}" y="{M+.5}" width="{cw-1}" height="{ch-1}" rx="11.5" fill="none" stroke="{c["stroke"]}"/>'
             f'{body}'
             f'<text x="{W-M-24}" y="{M+34}" text-anchor="end" font-family="{FF}" font-size="13" fill="{c["text3"]}">Updated {updated}</text>'
             '</svg>')
